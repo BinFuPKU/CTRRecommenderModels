@@ -1,2 +1,2 @@
 # CTRRecommenderModels (ongoing)
-Realizing some common CTR / recommender models for personal reusage.
+Realizing some common CTR / recommender models for reusage, including Matrix Factorizatin (MF)、SVD、Factorization Machine（FM）、NeuralCF、AutoencoderRec、DeepFM、DSSM、Wide & Deep、DeepCross（DCN）、Attentive Factorization Machine（AFM）、GRU4Rec。The project is ongoing ......
