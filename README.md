@@ -6,7 +6,7 @@ I realize some common CTR / recommender models for reusage, including:
 
 1.Matrix Factorizatin (MF)、SVD、Factorization Machine（FM）、NeuralCF、AutoencoderRec
 
-2.DeepFM、DSSM、Wide & Deep、DeepCross（DCN）、Attentive Factorization Machine（AFM）
+2.DeepFM、DSSM、Wide & Deep、DeepCross（DCN）、Attentive Factorization Machine（AFM）、PN（Product NN）
 
 3.GRU4Rec
 
