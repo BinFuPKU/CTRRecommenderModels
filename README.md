@@ -8,6 +8,6 @@ I realize some common CTR / recommender models for reusage, including:
 
 2.DeepFM、DSSM、Wide & Deep、DeepCross（DCN）、Attentive Factorization Machine（AFM）、Product-based Neural Network（PNN）、Neural Factorization Machine（NFM）
 
-3.GRU4Rec、Deep Interest Network（DIN）
+3.GRU4Rec、Deep Interest Network（DIN）、Deep Interest Evolution Network（DIEN）
 
 The project is ongoing ......
