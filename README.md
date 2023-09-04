@@ -5,9 +5,6 @@
 I realize some common-used CTR / recommender models for reusage, including 18 models as follows:
 
 1.5个基础模型：Matrix Factorizatin (MF)、SVD、Factorization Machine（FM）、NeuralCF、AutoencoderRec。
-![NeuralCF](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/244384c1-7d04-4b08-9332-39e56c96367e)
-![NFM](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/666a230f-c0ce-49cc-9fe0-7ddb65074a51)
-
 
 2.8个深度网络模型：DeepFM、DSSM、Wide & Deep、DeepCross（DCN）、Attentive Factorization Machine（AFM）、Product-based Neural Network（PNN）、Neural Factorization Machine（NFM）、FiBiNET。
 
