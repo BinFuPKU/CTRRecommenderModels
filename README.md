@@ -19,7 +19,7 @@ DeepCross:
 ![DeepCross DCN模型](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/223fee58-40d9-4fcb-870f-3e4453125de6)
 
 AFM:
-![AFM-2](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/1a315d75-35ed-467c-a901-c11cc61e1e23)
+![AFM-2](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/1b2a3962-4049-4cce-a0d1-2a9182da85c7)
 
 NFM:
 ![NFM](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/9c19319f-ea62-4218-a442-275de422f784)
