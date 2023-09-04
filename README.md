@@ -19,7 +19,8 @@ DeepFM:
 
 DeepCross:
 
-![DeepCross DCN模型](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/223fee58-40d9-4fcb-870f-3e4453125de6)
+![DeepCross DCN模型](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/96f05c1d-21a4-46d8-9c7a-951ccf147dd5)
+
 
 AFM:
 
