@@ -38,11 +38,13 @@ FiBiNET:
 
 DIN:
 
-<img width="692" alt="DIN" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/020834a1-7726-4fcf-b05f-bdf00ec431ba">
+<img width="692" alt="DIN" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/dafb6b0e-bd64-4c05-9ce6-3fa16d8f32cc">
+
 
 DIEN:
 
-<img width="689" alt="DIEN" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/e8eb1a19-be89-45c5-a755-c2e6ac16d7ee">
+<img width="689" alt="DIEN" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/55e7c6b9-e8f2-4594-9195-ddff4c42c73d">
+
 
 SASRec:
 
