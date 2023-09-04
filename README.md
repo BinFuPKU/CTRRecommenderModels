@@ -2,7 +2,7 @@
 
 个人实现18个推荐CTR经典模型代码(开箱即用，我的运行环境是mac m1 + python 3.9)，这个库后续继续更新；
 
-I realize some common-used CTR / recommender models for reusage, including 18 models as follows:
+I have implemented some common-used CTR / recommender models for reusage, including 18 models as follows:
 
 1.5个基础模型：Matrix Factorizatin (MF)、SVD、Factorization Machine（FM）、NeuralCF、AutoencoderRec。
 
