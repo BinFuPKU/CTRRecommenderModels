@@ -36,4 +36,22 @@ FiBiNET:
 
 3.5个序列推荐模型：GRU4Rec、Deep Interest Network（DIN）、Deep Interest Evolution Network（DIEN）、Self-attentive Sequential Recommendation（SASRec）、Behavior Sequence Transformer（BSTransformer）。
 
+DIN:
+
+<img width="692" alt="DIN" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/020834a1-7726-4fcf-b05f-bdf00ec431ba">
+
+DIEN:
+
+<img width="689" alt="DIEN" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/e8eb1a19-be89-45c5-a755-c2e6ac16d7ee">
+
+SASRec:
+
+<img width="588" alt="SASRec" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/4ab1aad5-77b4-40b0-835e-a1a118f18b3c">
+
+BSTransformer:
+
+![BST](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/0e14913b-e770-4ce0-b87b-1a6b62dcaad9)
+
+
+
 The project is ongoing ......
