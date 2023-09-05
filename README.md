@@ -57,6 +57,31 @@ BSTransformer:
 
 4.多兴趣偏好模型：Multi-interest network with dynamic routing（MIND）、Controllable Multi-Interest Framework for Recommendation（Comirec）。
 
-5.多任务学习模型：ESSM、MMOE、CGC。
+MIND：
+
+![MIND](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/3089993c-d291-47b8-95af-e61e81e6d86e)
+
+
+Comirec：
+
+![Comirec](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/08884e82-b3c2-4c7a-b0c8-949c6c9150ff)
+
+
+
+5.多任务学习模型：Entire-space multi-task model（ESSM）、Multi-gate MoE Mixture-of-Experts（MMOE）、Customized Gate Control（CGC）。
+
+
+ESSM：
+
+![ESSM](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/a7217768-d1f1-43af-9db0-2ed3768c199c)
+
+MMOE：
+
+![MMOE](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/b32c61dd-cef2-4fc1-913f-802580d3741c)
+
+CGC：
+
+![CGC](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/1aade055-a884-4723-b868-ff87d557f1f5)
+
 
 The project is ongoing ......
