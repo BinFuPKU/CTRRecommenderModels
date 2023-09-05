@@ -1,6 +1,6 @@
 # CTRRecommenderModels (ongoing)
 
-个人实现23个推荐CTR经典模型代码(开箱即用，我的运行环境是mac m1 + python 3.9)，这个库后续继续更新；
+我实现23个推荐CTR经典模型代码(开箱即用，我的运行环境是mac m1 + python 3.9)，这个库后续继续更新；
 
 I have implemented some common-used CTR / recommender models for reusage, including 18 models as follows:
 
