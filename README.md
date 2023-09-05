@@ -4,17 +4,17 @@
 
 I have implemented some common-used CTR / recommender models for reusage, including 23 models as follows:
 
-0.3个常用机器学习集成模型：随机森林、Xgboost和lightgbm，以及使用hyperopt和bayesian-optimization进行超参数调优。（这部分基于sklearn包和相应python包实现调用）
+# 3个常用机器学习集成模型：随机森林、Xgboost和lightgbm，以及使用hyperopt和bayesian-optimization进行超参数调优。（这部分基于sklearn包和相应python包实现调用）
 
-1.5个基础模型：Matrix Factorizatin (MF)、SVD、Factorization Machine（FM）、NeuralCF、AutoencoderRec。
+# 5个基础模型：Matrix Factorizatin (MF)、SVD、Factorization Machine（FM）、NeuralCF、AutoencoderRec。
 
-2.8个深度网络模型：DeepFM、DSSM、Wide & Deep、DeepCross（DCN）、Attentive Factorization Machine（AFM）、Product-based Neural Network（PNN）、Neural Factorization Machine（NFM）、FiBiNET。
+# 8个深度网络模型：DeepFM、DSSM、Wide & Deep、DeepCross（DCN）、Attentive Factorization Machine（AFM）、Product-based Neural Network（PNN）、Neural Factorization Machine（NFM）、FiBiNET。
 
-3.5个序列推荐模型：GRU4Rec、Deep Interest Network（DIN）、Deep Interest Evolution Network（DIEN）、Self-attentive Sequential Recommendation（SASRec）、Behavior Sequence Transformer（BSTransformer）。
+# 5个序列推荐模型：GRU4Rec、Deep Interest Network（DIN）、Deep Interest Evolution Network（DIEN）、Self-attentive Sequential Recommendation（SASRec）、Behavior Sequence Transformer（BSTransformer）。
 
-4.2个多兴趣偏好模型：Multi-interest network with dynamic routing（MIND）、Controllable Multi-Interest Framework for Recommendation（Comirec）。
+# 2个多兴趣偏好模型：Multi-interest network with dynamic routing（MIND）、Controllable Multi-Interest Framework for Recommendation（Comirec）。
 
-5.3个多任务学习模型：Entire-space multi-task model（ESSM）、Multi-gate MoE Mixture-of-Experts（MMOE）、Customized Gate Control（CGC）。
+# 3个多任务学习模型：Entire-space multi-task model（ESSM）、Multi-gate MoE Mixture-of-Experts（MMOE）、Customized Gate Control（CGC）。
 
 NeuralCF:
 
