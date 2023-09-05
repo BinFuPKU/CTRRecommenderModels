@@ -4,7 +4,7 @@
 
 I have implemented some common-used CTR / recommender models for reusage, including 23 models as follows:
 
-#### a. 3个常用机器学习集成模型：随机森林、Xgboost和lightgbm，以及使用hyperopt和bayesian-optimization进行超参数调优。（这部分基于sklearn包和相应python包实现调用）
+#### a. 4个常用机器学习集成模型：随机森林、Xgboost、lightgbm和catboost，以及使用hyperopt和bayesian-optimization进行超参数调优。（这部分基于sklearn包和相应python包实现调用）
 
 #### b. 5个基础模型：Matrix Factorizatin (MF)、SVD、Factorization Machine（FM）、NeuralCF、AutoencoderRec。
 
