@@ -1,6 +1,6 @@
 # CTRRecommenderModels (ongoing)
 
-个人实现18个推荐CTR经典模型代码(开箱即用，我的运行环境是mac m1 + python 3.9)，这个库后续继续更新；
+个人实现23个推荐CTR经典模型代码(开箱即用，我的运行环境是mac m1 + python 3.9)，这个库后续继续更新；
 
 I have implemented some common-used CTR / recommender models for reusage, including 18 models as follows:
 
@@ -55,6 +55,8 @@ BSTransformer:
 
 ![BST](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/0e14913b-e770-4ce0-b87b-1a6b62dcaad9)
 
+4.多兴趣偏好模型：Multi-interest network with dynamic routing（MIND）、Controllable Multi-Interest Framework for Recommendation（Comirec）。
 
+5.多任务学习模型：ESSM、MMOE、CGC。
 
 The project is ongoing ......
