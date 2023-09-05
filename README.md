@@ -6,12 +6,18 @@ I have implemented some common-used CTR / recommender models for reusage, includ
 
 1.5个基础模型：Matrix Factorizatin (MF)、SVD、Factorization Machine（FM）、NeuralCF、AutoencoderRec。
 
+2.8个深度网络模型：DeepFM、DSSM、Wide & Deep、DeepCross（DCN）、Attentive Factorization Machine（AFM）、Product-based Neural Network（PNN）、Neural Factorization Machine（NFM）、FiBiNET。
+
+3.5个序列推荐模型：GRU4Rec、Deep Interest Network（DIN）、Deep Interest Evolution Network（DIEN）、Self-attentive Sequential Recommendation（SASRec）、Behavior Sequence Transformer（BSTransformer）。
+
+4.2个多兴趣偏好模型：Multi-interest network with dynamic routing（MIND）、Controllable Multi-Interest Framework for Recommendation（Comirec）。
+
+5.3个多任务学习模型：Entire-space multi-task model（ESSM）、Multi-gate MoE Mixture-of-Experts（MMOE）、Customized Gate Control（CGC）。
+
 NeuralCF:
 
 <img width="706" alt="NeuralCF" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/1dd5dcc1-390c-4e01-abc9-f8aaeb25f05f">
 
-
-2.8个深度网络模型：DeepFM、DSSM、Wide & Deep、DeepCross（DCN）、Attentive Factorization Machine（AFM）、Product-based Neural Network（PNN）、Neural Factorization Machine（NFM）、FiBiNET。
 
 DeepFM:
 
@@ -35,7 +41,6 @@ FiBiNET:
 <img width="720" alt="FiBiNET" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/863183f3-aa8b-4bf3-bbf9-0a2970e66aa2">
 
 
-3.5个序列推荐模型：GRU4Rec、Deep Interest Network（DIN）、Deep Interest Evolution Network（DIEN）、Self-attentive Sequential Recommendation（SASRec）、Behavior Sequence Transformer（BSTransformer）。
 
 DIN:
 
@@ -55,7 +60,6 @@ BSTransformer:
 
 ![BST](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/0e14913b-e770-4ce0-b87b-1a6b62dcaad9)
 
-4.2个多兴趣偏好模型：Multi-interest network with dynamic routing（MIND）、Controllable Multi-Interest Framework for Recommendation（Comirec）。
 
 MIND：
 
@@ -67,8 +71,6 @@ Comirec：
 ![Comirec](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/08884e82-b3c2-4c7a-b0c8-949c6c9150ff)
 
 
-
-5.3个多任务学习模型：Entire-space multi-task model（ESSM）、Multi-gate MoE Mixture-of-Experts（MMOE）、Customized Gate Control（CGC）。
 
 
 ESSM：
