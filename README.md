@@ -17,7 +17,7 @@ I have implemented some common-used CTR / recommender models for reusage, includ
 
 #### f. 4个多任务学习模型：Entire-space multi-task model（ESSM，SIGIR 2020）、Multi-gate MoE Mixture-of-Experts（MMOE，KDD 2018）、Customized Gate Control（CGC，RS 2020）、Audience Multi-step Conversions with Multi-task Learning（AITM，KDD 2021）。
 
-多任务学习一般在实际工作中效果提升比较大的一种方式，找到场景下一些相关的任务，基于任务之间的关系特点来设计多任务共享结构，这里面有很多设计的空间，如共享模块可以是底层embedding共享、中间层共享或高层共享，共享程度大小等等，不同任务loss之间的比例，还有提高采样的效率等。共享的方式是hard还是soft等。
+多任务学习一般在实际工作中效果提升比较大的一种方式，找到场景下一些相关的任务，基于任务之间的关系特点来设计多任务共享结构，这里面有很多设计的空间，如共享模块可以是底层embedding共享、中间层共享或高层共享，共享程度大小等等，不同任务loss之间的比例，还有提高采样的效率等。共享的方式是hard还是soft等。注意一点就是根据不同任务之间相关性强弱，设计合理架构，避免负迁移。
 
 
 根据这几年大厂论文，主要集中在挖掘用户超长行为序列（同时考虑效率和效益，用于精排）、多兴趣偏好（用于召回）、多任务学习（模型sharing结构设计，主要用于精排）等，特征工程（特征离散化和特征交互）的文章相对较少。
