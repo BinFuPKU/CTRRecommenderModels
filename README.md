@@ -96,24 +96,33 @@ MIND：Multi-interest network with dynamic routing for recommendation at Tmall, 
 ![MIND](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/3089993c-d291-47b8-95af-e61e81e6d86e)
 
 
-Comirec：
+Comirec：Controllable Multi-Interest Framework for Recommendation， KDD 2020.
 
 ![Comirec](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/08884e82-b3c2-4c7a-b0c8-949c6c9150ff)
 
 
+SINE: Sparse-Interest Network for Sequential Recommendation, WSDM 2021.
+
+<img width="1308" alt="SINE" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/ed8f9505-00b2-487a-822e-ecedf8de5f20">
 
 
-ESSM：
+
+ESSM：Entire Space Multi-task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction, SIGIR 2020.
 
 ![ESSM](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/a7217768-d1f1-43af-9db0-2ed3768c199c)
 
-MMOE：
+MMOE：Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts, KDD 2018.
 
 ![MMOE](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/b32c61dd-cef2-4fc1-913f-802580d3741c)
 
-CGC：
+CGC：Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations, RS 2020.
 
 ![CGC](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/1aade055-a884-4723-b868-ff87d557f1f5)
+
+
+AITM: Modeling the Sequential Dependence among Audience Multi-step Conversions with Multi-task Learning in Targeted Display Advertising, KDD 2021.
+
+<img width="1625" alt="AITM" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/737a5eac-d50a-4842-a5e3-46b1dc9d6807">
 
 
 The project is ongoing ......
