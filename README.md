@@ -16,7 +16,7 @@ I have implemented some common-used CTR / recommender models for reusage, includ
 
 #### f. 4个多任务学习模型：Entire-space multi-task model（ESSM）、Multi-gate MoE Mixture-of-Experts（MMOE）、Customized Gate Control（CGC）、Audience Multi-step Conversions with Multi-task Learning（AITM）。
 
-根据这几年大厂论文，主要集中在挖掘用户超长行为序列（精排）、多兴趣偏好（召回）、多任务学习（模型sharing结构设计，精排）等，特征工程（特征离散化和特征交互）的文章相对较少。
+根据这几年大厂论文，主要集中在挖掘用户超长行为序列（同时考虑效率和效益，用于精排）、多兴趣偏好（用于召回）、多任务学习（模型sharing结构设计，主要用于精排）等，特征工程（特征离散化和特征交互）的文章相对较少。
 
 
 AutoRec - Autoencoders Meet Collaborative Filtering, WWW 2015.
