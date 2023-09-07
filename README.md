@@ -29,49 +29,69 @@ NeuralCF: Neural Collaborative Filtering, WWW 2017.
 
 <img width="706" alt="NeuralCF" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/1dd5dcc1-390c-4e01-abc9-f8aaeb25f05f">
 
-DeepFM:
+
+Wide&Deep: Wide & deep learning for recommender systems, RS 2016.
+
+<img width="683" alt="Wide Deep" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/d8fa6431-8230-4f0b-bda6-0ac3e277ae36">
+
+
+DeepFM: Deepfm: a factorization-machine based neural network for ctr prediction,  IJCAI 2017.
 
 <img width="688" alt="DeepFM" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/a2ccc855-3d96-481d-b2e8-e9c93d325181">
 
-DeepCross:
+DeepCross: Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features, KDD 2016.
 
 ![DeepCross DCN模型](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/96f05c1d-21a4-46d8-9c7a-951ccf147dd5)
 
 
-AFM:
+AFM: Attentive Factorization Machine, IJCAI 2017.
 
 ![AFM-2](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/1b2a3962-4049-4cce-a0d1-2a9182da85c7)
 
-NFM:
+NFM: Neural Factorization Machines for Sparse Predictive Analytics, SIGIR 2017.
 
 ![NFM](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/9c19319f-ea62-4218-a442-275de422f784)
 
-FiBiNET:
+FiBiNET: FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction, RS 2019.
 
 <img width="720" alt="FiBiNET" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/863183f3-aa8b-4bf3-bbf9-0a2970e66aa2">
 
 
+PNN: Product-based Neural Networks for User Response Prediction, ICDM 2016.
 
-DIN:
+<img width="531" alt="PNN" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/72b2abc0-b72d-49a9-845b-8116d278ef5b">
+
+
+GRU4Rec: Session-based Recommendations with Recurrent Neural Networks, ICLR 2016.
+
+<img width="566" alt="GRU4REC" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/871915c8-192e-4922-ba97-7947ddc98f01">
+
+
+Caser：Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding, WSDM 2018.
+
+<img width="690" alt="Caser" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/e671ac1b-b58e-43d9-9331-181685c23c72">
+
+
+DIN: Deep Interest Network for Click-Through Rate Prediction, KDD 2018.
 
 <img width="692" alt="DIN" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/dafb6b0e-bd64-4c05-9ce6-3fa16d8f32cc">
 
 
-DIEN:
+DIEN: Deep Interest Evolution Network for Click-Through Rate Prediction, AAAI 2018.
 
 <img width="689" alt="DIEN" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/55e7c6b9-e8f2-4594-9195-ddff4c42c73d">
 
 
-SASRec:
+SASRec: Self-attentive Sequential Recommendation, ICDM 2018.
 
 <img width="588" alt="SASRec" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/4ab1aad5-77b4-40b0-835e-a1a118f18b3c">
 
-BSTransformer:
+BSTransformer: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba, 2019.
 
 ![BST](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/0e14913b-e770-4ce0-b87b-1a6b62dcaad9)
 
 
-MIND：
+MIND：Multi-interest network with dynamic routing for recommendation at Tmall, 2019.
 
 ![MIND](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/3089993c-d291-47b8-95af-e61e81e6d86e)
 
