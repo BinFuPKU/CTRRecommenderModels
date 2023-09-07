@@ -2,7 +2,7 @@
 
 我实现25个推荐CTR经典模型代码(开箱即用-你需要进一步调优，我的运行环境是mac m1 + python 3.9，所有代码都本地完成测试)，这个库后续继续更新；
 
-I have implemented some common-used CTR / recommender models for reusage, including 23 models as follows:
+I have implemented some common-used CTR / recommender models for reusage, including 25 models as follows:
 
 #### a. 4个常用机器学习集成模型：随机森林、Xgboost、lightgbm和catboost，以及使用hyperopt和bayesian-optimization进行超参数调优。（这部分基于sklearn包和相应python包实现调用）
 
