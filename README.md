@@ -13,7 +13,7 @@ I have implemented some common-used CTR / recommender models for reusage, includ
 #### d. 5个序列推荐模型：GRU4Rec、Deep Interest Network（DIN）、Deep Interest Evolution Network（DIEN）、Self-attentive Sequential Recommendation（SASRec）、Behavior Sequence Transformer（BSTransformer）。
 
 #### e. 3个多兴趣偏好模型：Multi-interest network with dynamic routing（MIND）、Controllable Multi-Interest Framework for Recommendation（Comirec）、Sparse-Interest Network（SINE）。
-解决一个用户兴趣向量很难捕获用户多方面兴趣的问题，从用户历史行为序列中得到多个兴趣偏好。当用户历史行为序列较短时（<50）可以采用各种常规序列模型（如GRU、attention序列模型之类），当用户历史行为序列较长时，需要考虑效率，如利用target item来检索相似相近的历史items并进行序列建模。
+解决一个用户兴趣向量很难捕获用户多方面兴趣的问题，从用户历史行为序列中得到多个兴趣偏好。当用户历史行为序列较短时（<50）可以采用各种常规序列模型（如GRU、attention序列模型之类），当用户历史行为序列较长时，需要考虑效率，如利用target item来检索相似相近的历史items并进行序列建模。建模用户多方面偏好类似于聚类效果，采用胶囊网络、多个选择通路等等手段，每次激活一个通路或多个通路，采用hard方式或者soft方式（如注意力）。
 
 #### f. 4个多任务学习模型：Entire-space multi-task model（ESSM）、Multi-gate MoE Mixture-of-Experts（MMOE）、Customized Gate Control（CGC）、Audience Multi-step Conversions with Multi-task Learning（AITM）。
 
