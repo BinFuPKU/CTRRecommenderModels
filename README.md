@@ -16,10 +16,18 @@ I have implemented some common-used CTR / recommender models for reusage, includ
 
 #### f. 4个多任务学习模型：Entire-space multi-task model（ESSM）、Multi-gate MoE Mixture-of-Experts（MMOE）、Customized Gate Control（CGC）、Audience Multi-step Conversions with Multi-task Learning（AITM）。
 
-NeuralCF:
+
+AutoRec - Autoencoders Meet Collaborative Filtering, WWW 2015.
+
+Factorization Machines: Fast Context-aware Recommendations with Factorization Machines, SIGIR 2011.
+
+DSSM: Learning deep structured semantic models for web search using clickthrough data, CIKM 2013.
+
+<img width="1036" alt="DSSM" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/a6181c3f-108c-44b1-944c-8bfb15777b7e">
+
+NeuralCF: Neural Collaborative Filtering, WWW 2017.
 
 <img width="706" alt="NeuralCF" src="https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/1dd5dcc1-390c-4e01-abc9-f8aaeb25f05f">
-
 
 DeepFM:
 
