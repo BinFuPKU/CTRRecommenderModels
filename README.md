@@ -12,9 +12,9 @@ I have implemented some common-used CTR / recommender models for reusage, includ
 
 #### d. 5个序列推荐模型：GRU4Rec、Deep Interest Network（DIN）、Deep Interest Evolution Network（DIEN）、Self-attentive Sequential Recommendation（SASRec）、Behavior Sequence Transformer（BSTransformer）。
 
-#### e. 2个多兴趣偏好模型：Multi-interest network with dynamic routing（MIND）、Controllable Multi-Interest Framework for Recommendation（Comirec）。
+#### e. 3个多兴趣偏好模型：Multi-interest network with dynamic routing（MIND）、Controllable Multi-Interest Framework for Recommendation（Comirec）、Sparse-Interest Network（SINE）。
 
-#### f. 3个多任务学习模型：Entire-space multi-task model（ESSM）、Multi-gate MoE Mixture-of-Experts（MMOE）、Customized Gate Control（CGC）。
+#### f. 4个多任务学习模型：Entire-space multi-task model（ESSM）、Multi-gate MoE Mixture-of-Experts（MMOE）、Customized Gate Control（CGC）、Audience Multi-step Conversions with Multi-task Learning（AITM）。
 
 NeuralCF:
 
