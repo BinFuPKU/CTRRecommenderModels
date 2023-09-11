@@ -13,7 +13,7 @@ I have implemented some common-used CTR / recommender models for reusage, includ
 #### d. 5个序列推荐模型：GRU4Rec（ICLR 2016）、Deep Interest Network（DIN，KDD 2018）、Deep Interest Evolution Network（DIEN，AAAI 2018）、Self-attentive Sequential Recommendation（SASRec，ICDM 2018）、Behavior Sequence Transformer（BSTransformer，2019）。
 
 #### e. 3个多兴趣偏好模型：Multi-interest network with dynamic routing（MIND，2019）、Controllable Multi-Interest Framework for Recommendation（Comirec，KDD 2020）、Sparse-Interest Network（SINE，WSDM 2021）。
-解决一个用户兴趣向量很难捕获用户多方面兴趣的问题（特别是从用户历史长行为序列中捕捉多方面兴趣偏好），从用户历史行为序列中得到多个兴趣偏好。当用户历史行为序列较短时（<50）可以采用各种常规序列模型（如GRU、attention序列模型之类），当用户历史行为序列较长时，需要考虑效率，如利用target item来检索相似相近的历史items并进行序列建模。建模用户多方面偏好类似于聚类效果，采用胶囊网络、多个选择通路(如top-k个激活兴趣)等等手段，每次激活一个通路或多个通路，采用hard方式或者soft方式（如注意力）。
+解决一个用户兴趣向量很难捕获用户多方面兴趣的问题（特别是从用户历史长行为序列中捕捉多方面兴趣偏好），从用户历史行为序列中得到多个兴趣偏好。当用户历史行为序列较短时（<50）可以采用各种常规序列模型（如GRU、attention序列模型之类），当用户历史行为序列较长时，需要考虑效率，如利用target item来检索相似相近的历史items并进行序列建模。建模用户多方面偏好类似于聚类效果，采用胶囊网络、多个选择通路(如top-k个激活兴趣)等等手段，每次激活一个通路或多个通路（即兴趣点），采用hard方式或者soft方式（如注意力）。
 
 #### f. 4个多任务学习模型：Entire-space multi-task model（ESSM，SIGIR 2020）、Multi-gate MoE Mixture-of-Experts（MMOE，KDD 2018）、Customized Gate Control（CGC，RS 2020）、Audience Multi-step Conversions with Multi-task Learning（AITM，KDD 2021）。
 
