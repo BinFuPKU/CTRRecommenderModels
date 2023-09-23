@@ -7,6 +7,7 @@
 ### 《特征工程》前沿论文：
 
 Multi-modal Representation Learning for Short Video Understanding and Recommendation. ICME Workshops 2019.
+
 An Embedding Learning Framework for Numerical Features in CTR Prediction, KDD 2021.
 
 Dynamic Explicit Embedding Representation for Numerical Features in Deep CTR Prediction, CIKM 2022.
