@@ -1,10 +1,10 @@
 # CTRRecommenderModels (ongoing)
 
-## 经验总结和前沿研究调研
+## 1.经验总结和前沿研究调研
 
 对学术界和工业界的推荐系统进行了系统性总结，形成了《特征工程》、《召回》和《排序》三个章节，包括技术要点和前沿研究。
 
-### 《特征工程》前沿论文：
+### 1.1《特征工程》前沿论文：
 
 Multi-modal Representation Learning for Short Video Understanding and Recommendation. ICME Workshops 2019.
 
@@ -42,7 +42,7 @@ Catch: Collaborative Feature Set Search for Automated Feature Engineering, WWW 2
 
 
 
-### 我实现25个推荐CTR经典模型代码(开箱即用-你需要进一步调优，我的运行环境是mac m1 + python 3.9，所有代码都本地完成测试)，这个库后续继续更新；
+### 2.我实现25个推荐CTR经典模型代码(开箱即用-你需要进一步调优，我的运行环境是mac m1 + python 3.9，所有代码都本地完成测试)，这个库后续继续更新；
 
 I have implemented some common-used CTR / recommender models for reusage, including 25 models as follows:
 
