@@ -1,8 +1,48 @@
 # CTRRecommenderModels (ongoing)
 
+## 经验总结和前沿研究调研
+
 对学术界和工业界的推荐系统进行了系统性总结，形成了《特征工程》、《召回》和《排序》三个章节，包括技术要点和前沿研究。
 
-我实现25个推荐CTR经典模型代码(开箱即用-你需要进一步调优，我的运行环境是mac m1 + python 3.9，所有代码都本地完成测试)，这个库后续继续更新；
+### 《特征工程》前沿论文：
+
+Multi-modal Representation Learning for Short Video Understanding and Recommendation. ICME Workshops 2019.
+
+An Embedding Learning Framework for Numerical Features in CTR Prediction, KDD 2021.
+
+Dynamic Explicit Embedding Representation for Numerical Features in Deep CTR Prediction, CIKM 2022.
+
+Numerical Feature Representation with Hybrid 𝑁 -ary Encoding, CIKM 2022.
+
+AutoFeature: Searching for Feature Interactions and Their Architectures for Click-through Rate Prediction, CIKM 2020.
+
+Towards Automated Neural Interaction Discovery for Click-Through Rate Prediction, KDD 2020.
+
+AutoGroup: Automatic Feature Grouping for Modelling Explicit High-Order Feature Interactions in CTR Prediction, SIGIR 2020.
+
+Cognitive Evolutionary Search to Select Feature Interactions for Click-Through Rate Prediction, KDD 2023.
+
+AdnFM: An Attentive DenseNet based Factorization Machine for Click-Through-Rate Prediction, ICCDE 2022.
+
+CAN:Feature Co-Action Network for Click-Through Rate Prediction, WSDM 2022.
+
+Enhancing Explicit and Implicit Feature Interactions via Information Sharing for Parallel Deep CTR Models , DLP-KDD 2021.
+
+FINAL: Factorized Interaction Layer for CTR Prediction, SIGIR 2023.
+
+AdaFS: Adaptive Feature Selection in Deep Recommender System, KDD 2022.
+
+LPFS:Learnable Polarizing Feature Selection for Click-Through Rate Prediction, 2022.
+
+Optimizing Feature Set for Click-Through Rate Prediction, WWW 2023.
+
+Automatic Feature Selection By One-Shot Neural Architecture Search In Recommendation Systems, WWW 2023.
+
+Catch: Collaborative Feature Set Search for Automated Feature Engineering, WWW 2023.
+
+
+
+### 我实现25个推荐CTR经典模型代码(开箱即用-你需要进一步调优，我的运行环境是mac m1 + python 3.9，所有代码都本地完成测试)，这个库后续继续更新；
 
 I have implemented some common-used CTR / recommender models for reusage, including 25 models as follows:
 
