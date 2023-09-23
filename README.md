@@ -4,7 +4,7 @@
 
 对学术界和工业界的推荐系统进行了系统性总结，形成了《特征工程》、《召回》和《排序》三个章节，包括技术要点和前沿研究。
 
-### 1.1《特征工程》前沿论文：
+### 1.1 搜广推之《特征工程》前沿论文：
 
 Multi-modal Representation Learning for Short Video Understanding and Recommendation. ICME Workshops 2019.
 
