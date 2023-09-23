@@ -46,18 +46,18 @@ Catch: Collaborative Feature Set Search for Automated Feature Engineering, WWW 2
 
 I have implemented some common-used CTR / recommender models for reusage, including 25 models as follows:
 
-#### a. 4个常用机器学习集成模型：随机森林、Xgboost、lightgbm和catboost，以及使用hyperopt和bayesian-optimization进行超参数调优。（这部分基于sklearn包和相应python包实现调用）
+#### 2.1. 4个常用机器学习集成模型：随机森林、Xgboost、lightgbm和catboost，以及使用hyperopt和bayesian-optimization进行超参数调优。（这部分基于sklearn包和相应python包实现调用）
 
-#### b. 5个基础模型：Matrix Factorizatin (MF)、SVD、Factorization Machine（FM）、NeuralCF（WWW 2017）、AutoencoderRec（WWW 2015）。
+#### 2.2. 5个基础模型：Matrix Factorizatin (MF)、SVD、Factorization Machine（FM）、NeuralCF（WWW 2017）、AutoencoderRec（WWW 2015）。
 
-#### c. 8个深度网络模型：DeepFM（IJCAI 2017）、DSSM（CIKM 2013）、Wide & Deep（RS 2016）、DeepCross（DCN，KDD 2016）、Attentive Factorization Machine（AFM，IJCAI 2017）、Product-based Neural Network（PNN，ICDM 2016）、Neural Factorization Machine（NFM，SIGIR 2017）、FiBiNET（RS 2019）。
+#### 2.3. 8个深度网络模型：DeepFM（IJCAI 2017）、DSSM（CIKM 2013）、Wide & Deep（RS 2016）、DeepCross（DCN，KDD 2016）、Attentive Factorization Machine（AFM，IJCAI 2017）、Product-based Neural Network（PNN，ICDM 2016）、Neural Factorization Machine（NFM，SIGIR 2017）、FiBiNET（RS 2019）。
 
-#### d. 5个序列推荐模型：GRU4Rec（ICLR 2016）、Deep Interest Network（DIN，KDD 2018）、Deep Interest Evolution Network（DIEN，AAAI 2018）、Self-attentive Sequential Recommendation（SASRec，ICDM 2018）、Behavior Sequence Transformer（BSTransformer，2019）。
+#### 2.4. 5个序列推荐模型：GRU4Rec（ICLR 2016）、Deep Interest Network（DIN，KDD 2018）、Deep Interest Evolution Network（DIEN，AAAI 2018）、Self-attentive Sequential Recommendation（SASRec，ICDM 2018）、Behavior Sequence Transformer（BSTransformer，2019）。
 
-#### e. 3个多兴趣偏好模型：Multi-interest network with dynamic routing（MIND，2019）、Controllable Multi-Interest Framework for Recommendation（Comirec，KDD 2020）、Sparse-Interest Network（SINE，WSDM 2021）。
+#### 2.5. 3个多兴趣偏好模型：Multi-interest network with dynamic routing（MIND，2019）、Controllable Multi-Interest Framework for Recommendation（Comirec，KDD 2020）、Sparse-Interest Network（SINE，WSDM 2021）。
 解决一个用户兴趣向量很难捕获用户多方面兴趣的问题（特别是从用户历史长行为序列中捕捉多方面兴趣偏好），从用户历史行为序列中得到多个兴趣偏好。当用户历史行为序列较短时（<50）可以采用各种常规序列模型（如GRU、attention序列模型之类），当用户历史行为序列较长时，需要考虑效率，如利用target item来检索相似相近的历史items并进行序列建模。建模用户多方面偏好类似于聚类效果，采用胶囊网络、多个选择通路(如top-k个激活兴趣)等等手段，每次激活一个通路或多个通路（即兴趣点），采用hard方式或者soft方式（如注意力）。
 
-#### f. 4个多任务学习模型：Entire-space multi-task model（ESSM，SIGIR 2020）、Multi-gate MoE Mixture-of-Experts（MMOE，KDD 2018）、Customized Gate Control（CGC，RS 2020）、Audience Multi-step Conversions with Multi-task Learning（AITM，KDD 2021）。
+#### 2.6. 4个多任务学习模型：Entire-space multi-task model（ESSM，SIGIR 2020）、Multi-gate MoE Mixture-of-Experts（MMOE，KDD 2018）、Customized Gate Control（CGC，RS 2020）、Audience Multi-step Conversions with Multi-task Learning（AITM，KDD 2021）。
 
 多任务学习一般在实际工作中效果提升比较大的一种方式，找到场景下一些相关的任务，基于任务之间的关系特点来设计多任务共享结构，这里面有很多设计的空间，如共享模块可以是底层embedding共享、中间层共享或高层共享，共享程度大小等等，不同任务loss之间的比例，还有提高采样的效率等。共享的方式是hard还是soft等。注意一点就是根据不同任务之间相关性强弱，设计合理架构，避免负迁移。
 
