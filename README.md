@@ -40,7 +40,7 @@ Automatic Feature Selection By One-Shot Neural Architecture Search In Recommenda
 
 Catch: Collaborative Feature Set Search for Automated Feature Engineering, WWW 2023.
 
-总结：https://blog.csdn.net/nihaomafb/article/details/133242598
+经验总结：https://blog.csdn.net/nihaomafb/article/details/133242598
 
 ### 1.2. 推荐系统之《召回》前沿论文
 
@@ -72,6 +72,7 @@ Path-based Deep Network for candidate item matching in recommenders, SIGIR 2021.
 
 Sampling-bias-corrected neural modeling for large corpus item recommendations, RS 2019.
 
+经验总结：https://blog.csdn.net/nihaomafb/article/details/133249562
 
 ### 1.3. 推荐系统之《排序》前沿论文：
 
