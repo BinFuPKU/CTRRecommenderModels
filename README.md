@@ -246,6 +246,8 @@ Multi-Task Deep Recommender Systems: A Survey, 2023.
 
 Expressive user embedding from churn and recommendation multi-task learning, WWW 2023.
 
+PEPNet: Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information, KDD 2023. 
+
 
 
 ### 2.我实现25个推荐CTR经典模型代码(开箱即用-你需要进一步调优，我的运行环境是mac m1 + python 3.9，所有代码都本地完成测试)，这个库后续继续更新；
