@@ -75,6 +75,175 @@ Sampling-bias-corrected neural modeling for large corpus item recommendations, R
 
 ### 1.3. 推荐系统之排序前沿论文：
 
+A Survey on User Behavior Modeling in Recommender Systems, 2023.
+
+Deep interest network for click-through rate prediction, KDD,2018.
+
+DIEN: Deep Interest Evolution Network for Click-Through Rate Prediction, AAAI 2018.
+
+SASRec: Self-attentive Sequential Recommendation, ICDM 2018.
+
+BSTransformer: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba, 2019.
+
+Deep Session Interest Network for Click-Through Rate Prediction, IJCAI 2019.
+
+Learning to Retrieve User Behaviors for Click-through Rate Estimation, TIOS 2023.
+
+A Survey on User Behavior Modeling in Recommender Systems, 2023.
+
+Practice on long sequential user behavior modeling for click-through rate prediction, KDD 2019.
+
+Lifelong sequential modeling with personalized memorization for user response prediction, SIGIR 2019.
+
+Sparse Attentive Memory Network for Click-through Rate Prediction with Long Sequences, CIKM 2022.
+
+Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction, 2020.
+
+End-to-End User Behavior Retrieval in Click-Through Rate Prediction Model, 2021.
+
+Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction, CIKM 2022.
+
+Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction, SIGIR 2022.
+
+TWIN: TWo-stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou, KDD 2023.
+
+Divide and Conquer: Towards Better Embedding-based Retrieval for Recommender Systems from a Multi-task Perspective, WWW 2023.
+
+Denoising Self-Attentive Sequential Recommendation, RS 2022.
+
+Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search, CIKM 2022.
+
+Rethinking Personalized Ranking at Pinterest: An End-to-End Approach, RS 2022.
+
+Page-Wise Personalized Recommendations in an Industrial e-Commerce Setting, RS 2022.
+
+MTBRN: MultiplexTarget-BehaviorRelationEnhancedNetwork forClick-ThroughRatePrediction, CIKM 2020.
+
+Multi-Scale User Behavior Network for Entire Space Multi-Task Learning, CIKM 2022.
+
+Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation, AAAI 2023.
+
+Hierarchical Projection Enhanced Multi-behavior Recommendation, KDD 2023.
+
+Beyond Matching: Modeling Two-Sided Multi-Behavioral Sequences for Dynamic Person-Job Fit, DASFAA 2021.
+
+Deep Position-wise Interaction Network for CTR Prediction, SIGIR 2021.
+
+AutoDebias: Learning to Debias for Recommendation, SIGIR 2021.
+
+Unbiased Learning to Rank: Online or Offline?, TIOS 2020.
+
+Fair pairwise learning to rank, 2020.
+
+CAM2: Conformity-Aware Multi-Task Ranking Model for Large-Scale Recommender Systems, WWW 2023.
+
+Entire Space Cascade Delayed Feedback Modeling for Effective Conversion Rate Prediction, CIKM 2023.
+
+ESMC: Entire Space Multi-Task Model for Post-Click Conversion Rate via Parameter Constraint, 2023.
+
+Click-Conversion Multi-Task Model with Position Bias Mitigation for Sponsored Search in eCommerce, SIGIR 2023.
+
+DCMT: A Direct Entire-Space Causal Multi-Task Framework for Post-Click Conversion Estimation, ICDE 2023.
+
+Scenario-Adaptive Feature Interaction for Click-Through Rate Prediction, KDD 2023.
+
+OptMSM: Optimizing Multi-Scenario Modeling for Click-Through Rate Prediction, 2023.
+
+Leaving No One Behind: A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling, WSDM 2022.
+
+M5: Multi-Modal Multi-Interest Multi-Scenario Matching for Over-the-Top Recommendation, KDD 2023.
+
+Automatic Expert Selection for Multi-Scenario and Multi-Task Search, SIGIR 2022.
+
+Continual Transfer Learning for Cross-Domain Click-Through Rate Prediction at Taobao, WWW 2023.
+
+Cross-domain Augmentation Networks for Click-Through Rate Prediction, 2023.
+
+One Model to Serve All: Star Topology Adaptive Recommender for Multi-Domain CTR Prediction, CIKM 2021.
+
+HiNet: Novel Multi-Scenario & Multi-Task Learning with Hierarchical Information Extraction, ICDE 2023.
+
+Multi-Faceted Hierarchical Multi-Task Learning for Recommender Systems, CIKM 2022.
+
+Large Scale Product Graph Construction for Recommendation in E-commerce, 2020.
+
+Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations, RS 2020.
+
+AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations, KDD 2023.
+
+Entire Space Multi-Task Model: An Eﬀective Approach for Estimating Post-Click Conversion Rate,  SIGIR 2018. 
+
+Modeling the Sequential Dependence among Audience Multi-step Conversions with Multi-task Learning in Targeted Display Advertising, KDD 2021.
+
+Advances and Challenges of Multi-task Learning Method in Recommender System: A Survey, 2023.
+
+Multi-Objective Recommender Systems: Survey and Challenges, RS 2022.
+
+Optimizing Airbnb Search Journey with Multi-task Learning, KDD 2023.                                  
+
+A Contrastive Sharing Model for Multi-Task Recommendation, WWW 2022.
+
+Adaptive Pattern Extraction Multi-Task Learning for Multi-Step Conversion Estimations, 2023.
+
+MSSM: A Multiple-level Sparse Sharing Model for Efficient Multi-Task Learning, SIGIR 2021.
+
+STEM: Unleashing the Power of Embeddings for Multi-task Recommendation, 2023.
+
+Multi-Task Recommendations with Reinforcement Learning, WWW 2023.
+
+Hierarchically Modeling Micro and Macro Behaviors via Multi-Task Learning for Conversion Rate Prediction, SIGIR 2021.
+
+MNCM: Multi-level Network Cascades Model for Multi-Task Learning, CIKM 2022.
+
+Prototype Feature Extraction for Multi-task Learning, WWW 2022.
+
+Fast greedy map inference for determinantal point process to improve  recommendation diversity, NIPS 2018.
+
+Neural Re-ranking in Multi-stage Recommender Systems: A Review, 2022.
+
+Generative Flow Network for Listwise Recommendation, KDD 2023.
+
+Context-aware Reranking with Utility Maximization for Recommendation, 2022.
+
+Revisit Recommender System in the Permutation Prospective, 2021.
+
+Entire Cost Enhanced Multi-Task Model for Online-to-Offline Conversion Rate Prediction, 2022.
+
+GRN: Generative Rerank Network for Context-wise Recommendation, 2021.
+
+PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation, WWW 2022.
+
+Personalized Diversification for Neural Re-ranking in Recommendation, ICDE 2023.
+
+Multi-Level Interaction Reranking with User Behavior History, SIGIR 2022.
+
+Slate-Aware Ranking for Recommendation, WSDM 2023.
+
+RankFormer: Listwise Learning-to-Rank Using Listwide Labels, kdd 2023.
+
+PIER: Permutation-Level Interest-Based End-to-End Re-ranking Framework in E-commerce, KDD 2023.
+
+Multi-factor Sequential Re-ranking with Perception-Aware Diversification, KDD 2023.
+
+APG: Adaptive Parameter Generation Network for Click-Through Rate Prediction, NIPS 2022.
+
+AutoFAS: Automatic Feature and Architecture Selection for Pre-Ranking System, 2022.
+
+NAS-CTR: Efficient Neural Architecture Search for Click-Through Rate Prediction, SIGIR 2022.
+
+Controllable Multi-Objective Re-ranking with Policy Hypernetworks, KDD 2023.
+
+Improving Training Stability for Multitask Ranking Models in Recommender Systems, KDD 2023.
+
+Iterative Boosting Deep Neural Networks for Predicting Click-Through Rate, 2020.
+
+DHEN: A Deep and Hierarchical Ensemble Network for Large-Scale Click-Through Rate Prediction, KDD 2022.
+
+AdaEnsemble: Learning Adaptively Sparse Structured Ensemble Network for Click-Through Rate Prediction, 2022. 
+
+Multi-Task Deep Recommender Systems: A Survey, 2023.
+
+Expressive user embedding from churn and recommendation multi-task learning, WWW 2023.
 
 
 
