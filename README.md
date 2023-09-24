@@ -42,7 +42,7 @@ Catch: Collaborative Feature Set Search for Automated Feature Engineering, WWW 2
 
 总结：https://blog.csdn.net/nihaomafb/article/details/133242598
 
-### 1.2. 推荐系统之召回前沿论文
+### 1.2. 推荐系统之《召回》前沿论文
 
 Large Scale Product Graph Construction for Recommendation in E-commerce, 2020.
 
@@ -73,7 +73,7 @@ Path-based Deep Network for candidate item matching in recommenders, SIGIR 2021.
 Sampling-bias-corrected neural modeling for large corpus item recommendations, RS 2019.
 
 
-### 1.3. 推荐系统之排序前沿论文：
+### 1.3. 推荐系统之《排序》前沿论文：
 
 A Survey on User Behavior Modeling in Recommender Systems, 2023.
 
