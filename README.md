@@ -40,6 +40,38 @@ Automatic Feature Selection By One-Shot Neural Architecture Search In Recommenda
 
 Catch: Collaborative Feature Set Search for Automated Feature Engineering, WWW 2023.
 
+总结：https://blog.csdn.net/nihaomafb/article/details/133242598
+
+### 1.2. 推荐系统之召回前沿论文
+
+Large Scale Product Graph Construction for Recommendation in E-commerce, 2020.
+
+KGAT: Knowledge Graph Attention Network for Recommendation, KDD 2019.
+
+Multi-Interest Network with Dynamic Routing for Recommendation at Tmall, 2019.
+
+Controllable Multi-Interest Framework for Recommendation, KDD 2019.
+
+Sparse-Interest Network for Sequential Recommendation, WSDM 2021.
+
+Multi-task Learning Model based on Multiple Characteristics and Multiple Interests for CTR prediction, 2022.
+
+SDM: Sequential Deep Matching Model for Online Large-scale Recommender System, CIKM 2019.
+
+Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction, 2020.
+
+End-to-End User Behavior Retrieval in Click-Through Rate Prediction Model, 2021.
+
+Learning Tree-based Deep Model for Recommender Systems, KDD 2019.
+
+DemiNet: Dependency-Aware Multi-Interest Network with Self-Supervised Graph Learning for Click-Through Rate Prediction, AAAI 2022.
+
+MISS: Multi-Interest Self-Supervised Learning Framework for Click-Through Rate Prediction, ICDE 2022.
+
+Path-based Deep Network for candidate item matching in recommenders, SIGIR 2021.
+
+Sampling-bias-corrected neural modeling for large corpus item recommendations, RS 2019.
+
 
 
 ### 2.我实现25个推荐CTR经典模型代码(开箱即用-你需要进一步调优，我的运行环境是mac m1 + python 3.9，所有代码都本地完成测试)，这个库后续继续更新；
