@@ -64,6 +64,10 @@ I have implemented some common-used CTR / recommender models for reusage, includ
 
 根据这几年大厂论文，主要集中在挖掘用户超长行为序列（同时考虑效率和效益，用于精排）、多兴趣偏好（用于召回）、多任务学习（模型sharing结构设计，主要用于精排）等，特征工程（特征离散化和特征交互）的文章相对较少。
 
+![推荐模型-演化](https://github.com/BinFuPKU/CTRRecommenderModels/assets/29002864/768b5ea0-eefd-4c16-a97d-3a0bbaca7317)
+
+
+
 
 AutoRec - Autoencoders Meet Collaborative Filtering, WWW 2015.
 
